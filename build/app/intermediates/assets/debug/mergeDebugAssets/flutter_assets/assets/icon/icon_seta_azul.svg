@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="128" height="128" viewBox="0 0 128 128">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.353" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#00abff"/>
+      <stop offset="1" stop-color="#1cf0ff"/>
+    </linearGradient>
+    <clipPath id="clip-Tamanho_personalizado_1">
+      <rect width="128" height="128"/>
+    </clipPath>
+  </defs>
+  <g id="Tamanho_personalizado_1" data-name="Tamanho personalizado – 1" clip-path="url(#clip-Tamanho_personalizado_1)">
+    <rect width="128" height="128" fill="#fff"/>
+    <g id="Grupo_487" data-name="Grupo 487" transform="translate(12.835)">
+      <path id="Caminho_2287" data-name="Caminho 2287" d="M307.7,353.2l-58.329-38.885-18.419-12.281A12.88,12.88,0,0,0,211,312.784V415.115a12.879,12.879,0,0,0,19.955,10.744L307.7,374.693a13.071,13.071,0,0,0,0-21.489Z" transform="translate(-211 -299.949)" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+</svg>

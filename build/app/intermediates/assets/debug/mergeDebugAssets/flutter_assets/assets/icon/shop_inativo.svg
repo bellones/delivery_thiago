@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="128" height="128" viewBox="0 0 128 128">
+  <defs>
+    <clipPath id="clip-iPhone_6_7_8_9">
+      <rect width="128" height="128"/>
+    </clipPath>
+  </defs>
+  <g id="iPhone_6_7_8_9" data-name="iPhone 6, 7, 8 – 9" clip-path="url(#clip-iPhone_6_7_8_9)">
+    <rect width="128" height="128" fill="#fff"/>
+    <g id="store-shop" transform="translate(-3 -2.632)">
+      <path id="Caminho_2212" data-name="Caminho 2212" d="M124.892,23.74,114.068,10.267A11.093,11.093,0,0,0,105.31,6h-74.6a11.227,11.227,0,0,0-8.352,3.726L10.141,23.2A27.778,27.778,0,0,0,3,41.93V57.649A4.491,4.491,0,0,0,7.491,62.14H126.509A4.491,4.491,0,0,0,131,57.649V41.144a27.846,27.846,0,0,0-6.109-17.4ZM50.158,39.684V57.649H41.176V39.684a59.239,59.239,0,0,1,8.982-29.193H59.14S50.158,28.456,50.158,39.684ZM95.07,57.649H86.088V39.684c0-11.228-8.982-29.193-8.982-29.193h8.982A59.239,59.239,0,0,1,95.07,39.684Z" transform="translate(0 0)" fill="#b5b5b5"/>
+      <path id="Caminho_2213" data-name="Caminho 2213" d="M8,34V78.912A13.474,13.474,0,0,0,21.474,92.386h24.7v-24.7a15.719,15.719,0,0,1,31.439,0v24.7h24.7a13.474,13.474,0,0,0,13.474-13.474V34Z" transform="translate(6.228 34.877)" fill="#d4d4d4"/>
+    </g>
+  </g>
+</svg>

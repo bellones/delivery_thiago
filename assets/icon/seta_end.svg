@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="128" height="128" viewBox="0 0 128 128">
+  <defs>
+    <clipPath id="clip-iPhone_6_7_8_15">
+      <rect width="128" height="128"/>
+    </clipPath>
+  </defs>
+  <g id="iPhone_6_7_8_15" data-name="iPhone 6, 7, 8 – 15" clip-path="url(#clip-iPhone_6_7_8_15)">
+    <rect width="128" height="128" fill="#fff"/>
+    <g id="jogar" transform="translate(128 -45.584) rotate(90)">
+      <g id="Grupo_447" data-name="Grupo 447" transform="translate(61.52)">
+        <path id="Caminho_2216" data-name="Caminho 2216" d="M150.566,52.114,79.467,3.44A17.356,17.356,0,0,0,70.125,0C64.809,0,61.52,4.267,61.52,11.409v105.2C61.52,123.742,64.8,128,70.108,128c2.754,0,6.01-1.192,9.3-3.447L150.541,75.88c4.575-3.135,7.108-7.354,7.108-11.885S155.145,55.248,150.566,52.114Z" transform="translate(-61.52)" fill="#37a8ff"/>
+      </g>
+    </g>
+  </g>
+</svg>

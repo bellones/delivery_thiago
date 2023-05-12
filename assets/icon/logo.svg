@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="128" height="110.845" viewBox="0 0 128 110.845">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#00b0ff"/>
+      <stop offset="1" stop-color="#07f"/>
+    </linearGradient>
+  </defs>
+  <g id="Símbolo" transform="translate(-129.2 -218.8)">
+    <path id="Caminho_2325" data-name="Caminho 2325" d="M657.307,218.8l-40.755,70.565L599.1,259.11l23.289-40.3Z" transform="translate(-400.107 0)" fill="url(#linear-gradient)"/>
+    <path id="Caminho_2326" data-name="Caminho 2326" d="M216.459,445.19H169.911l-5.822-10.085L129.2,374.655,140.815,354.5h46.563l-11.645,20.155,34.919,60.45Z" transform="translate(0 -115.545)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>

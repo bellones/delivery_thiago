@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="128" height="128" viewBox="0 0 128 128">
+  <defs>
+    <clipPath id="clip-iPhone_12_12_Pro_150">
+      <rect width="128" height="128"/>
+    </clipPath>
+  </defs>
+  <g id="iPhone_12_12_Pro_150" data-name="iPhone 12, 12 Pro – 150" clip-path="url(#clip-iPhone_12_12_Pro_150)">
+    <rect width="128" height="128" fill="#f9f9f9"/>
+    <g id="lupa_3_" data-name="lupa (3)" transform="translate(0 0)">
+      <path id="Caminho_30" data-name="Caminho 30" d="M126.922,109.743,103.145,86.291A55.859,55.859,0,1,0,87.73,102.464l23.4,23.074a11.168,11.168,0,1,0,15.794-15.8ZM55.837,94.384A37.744,37.744,0,1,1,93.58,56.641,37.744,37.744,0,0,1,55.837,94.384Z" transform="translate(0 -0.802)"/>
+    </g>
+  </g>
+</svg>

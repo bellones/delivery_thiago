@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="128" height="128" viewBox="0 0 128 128">
+  <defs>
+    <clipPath id="clip-iPhone_6_7_8_14">
+      <rect width="128" height="128"/>
+    </clipPath>
+  </defs>
+  <g id="iPhone_6_7_8_14" data-name="iPhone 6, 7, 8 – 14" clip-path="url(#clip-iPhone_6_7_8_14)">
+    <rect width="128" height="128" fill="#fff"/>
+    <g id="pin" transform="translate(-38.164)">
+      <g id="Grupo_444" data-name="Grupo 444" transform="translate(78.4 27.515)">
+        <g id="Grupo_443" data-name="Grupo 443">
+          <path id="Caminho_2214" data-name="Caminho 2214" d="M184.71,110.062a23.763,23.763,0,1,0,23.763,23.763A23.79,23.79,0,0,0,184.71,110.062Zm0,37.521a13.758,13.758,0,1,1,13.758-13.758A13.773,13.773,0,0,1,184.71,147.583Z" transform="translate(-160.947 -110.062)"/>
+        </g>
+      </g>
+      <g id="Grupo_446" data-name="Grupo 446" transform="translate(50.885)">
+        <g id="Grupo_445" data-name="Grupo 445">
+          <path id="Caminho_2215" data-name="Caminho 2215" d="M102.164,0A51.337,51.337,0,0,0,50.885,51.279V52.7c0,14.3,8.2,30.964,24.369,49.528A210.794,210.794,0,0,0,99.02,125.459L102.164,128l3.144-2.54a210.744,210.744,0,0,0,23.766-23.235C145.244,83.66,153.442,67,153.442,52.7V51.279A51.337,51.337,0,0,0,102.164,0Z" transform="translate(-50.885)" fill="#b5b5b5"/>
+        </g>
+      </g>
+      <circle id="Elipse_470" data-name="Elipse 470" cx="26.4" cy="26.4" r="26.4" transform="translate(76.485 25.6)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

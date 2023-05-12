@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="128" height="128" viewBox="0 0 128 128">
+  <defs>
+    <clipPath id="clip-iPhone_12_12_Pro_151">
+      <rect width="128" height="128"/>
+    </clipPath>
+  </defs>
+  <g id="iPhone_12_12_Pro_151" data-name="iPhone 12, 12 Pro – 151" clip-path="url(#clip-iPhone_12_12_Pro_151)">
+    <rect width="128" height="128" fill="#f9f9f9"/>
+    <g id="_21" data-name="21" transform="translate(-2.014 7.504)">
+      <path id="Caminho_2137" data-name="Caminho 2137" d="M14.737,55.251A64.056,64.056,0,0,1,29.47,14.512a6.414,6.414,0,1,0-9.865-8.2,76.867,76.867,0,0,0,0,97.877,6.414,6.414,0,1,0,9.865-8.2A64.055,64.055,0,0,1,14.737,55.251Z" transform="translate(0 0)"/>
+      <circle id="Elipse_364" data-name="Elipse 364" cx="12.811" cy="12.811" r="12.811" transform="translate(53.171 42.44)"/>
+      <path id="Caminho_2138" data-name="Caminho 2138" d="M27.391,11.659a6.406,6.406,0,1,0-11.018,6.406,32.028,32.028,0,0,1,0,32.028,6.406,6.406,0,0,0,2.178,8.84,7.046,7.046,0,0,0,3.331.9,6.406,6.406,0,0,0,5.509-3.075,45.223,45.223,0,0,0,0-44.839Z" transform="translate(71.002 21.044)"/>
+      <path id="Caminho_2139" data-name="Caminho 2139" d="M20.8,8.934a6.406,6.406,0,0,0-8.84,2.178,45.223,45.223,0,0,0,0,44.839,6.406,6.406,0,0,0,5.509,3.331,7.046,7.046,0,0,0,3.331-.9,6.406,6.406,0,0,0,2.178-8.84,32.028,32.028,0,0,1,0-32.028A6.406,6.406,0,0,0,20.8,8.934Z" transform="translate(21.61 21.592)"/>
+      <path id="Caminho_2140" data-name="Caminho 2140" d="M28.827,6.313a6.414,6.414,0,0,0-9.865,8.2,64.056,64.056,0,0,1,0,81.479,6.414,6.414,0,0,0,9.865,8.2,76.867,76.867,0,0,0,0-97.877Z" transform="translate(83.595 0)"/>
+    </g>
+  </g>
+</svg>
