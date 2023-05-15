@@ -23,8 +23,8 @@ class LojaHome extends StatelessWidget {
           child: BlocBuilder<LojaBloc, LojaState>(
             builder: (context, state) {
               return Visibility(
-                replacement: Column(
-                  children: const [ListTileShimmer(), ListTileShimmer()],
+                replacement: const Column(
+                  children: [ListTileShimmer(), ListTileShimmer()],
                 ),
                 visible: state.list.isNotEmpty,
                 child: ListView.builder(

@@ -21,12 +21,8 @@ class ModalEndereco extends StatelessWidget {
     return BlocBuilder<EnderecoBloc, EnderecoState>(
       builder: (context, state) {
         return Visibility(
-          replacement: Column(
-            children: const [
-              ListTileShimmer(),
-              ListTileShimmer(),
-              ListTileShimmer()
-            ],
+          replacement: const Column(
+            children: [ListTileShimmer(), ListTileShimmer(), ListTileShimmer()],
           ),
           visible: state.list.isNotEmpty,
           child: SafeArea(

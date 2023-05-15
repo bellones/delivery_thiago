@@ -22,8 +22,8 @@ class CategoriaHome extends StatelessWidget {
           child: BlocBuilder<CategoriaHomeBloc, CategoriaHomeState>(
             builder: (context, state) {
               return Visibility(
-                replacement: Column(
-                  children: const [
+                replacement: const Column(
+                  children: [
                     ListTileShimmer(),
                     ListTileShimmer(),
                     ListTileShimmer(),
