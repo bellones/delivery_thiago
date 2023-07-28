@@ -6,6 +6,7 @@ import 'package:delivery_thiago/pages/home/components/promocao/bloc/promocao_hom
 import 'package:delivery_thiago/pages/home/home_page.dart';
 import 'package:delivery_thiago/pages/login/bloc/auth_bloc.dart';
 import 'package:delivery_thiago/pages/login/login_page.dart';
+import 'package:delivery_thiago/pages/search/bloc/search_bloc.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
@@ -56,12 +57,15 @@ class MyApp extends StatelessWidget {
           BlocProvider(
             create: (context) => CategoriaHomeBloc(),
           ),
+          BlocProvider(
+            create: (context) => SearchBloc(),
+          )
         ],
         child: MaterialApp(
           title: 'Delivery App using Bloc',
           debugShowCheckedModeBanner: false,
           theme: theme(),
-          initialRoute: user != null ? HomePage.routeName : LoginPage.routeName,
+          initialRoute: user == null ? HomePage.routeName : LoginPage.routeName,
           routes: routes,
         ));
   }
