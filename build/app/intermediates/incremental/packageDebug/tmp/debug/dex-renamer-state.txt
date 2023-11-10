@@ -1,4 +1,4 @@
-#Mon May 29 18:46:49 BRT 2023
+#Mon Aug 14 16:31:24 BRT 2023
 base.0=/Users/mac/delivery_thiago/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
 base.1=/Users/mac/delivery_thiago/build/app/intermediates/dex/debug/mergeDexDebug/classes2.dex
 base.2=/Users/mac/delivery_thiago/build/app/intermediates/dex/debug/mergeDexDebug/classes3.dex
